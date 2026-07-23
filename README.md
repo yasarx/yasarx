@@ -1,90 +1,81 @@
-```markdown
-# Hi, I'm Mohamed Yasar Arafath 👋
+<h1 align="center">Hi 👋! My name is Mohamed Yasar Arafath, and I'm a Blue Team Lead – Cybersecurity from 🇮🇳</h1>
 
-**Blue Team Lead – Cybersecurity** | Chennai, India
+###
 
-Leading 24×7 SOC operations across on-premises and AWS environments — security monitoring, incident response, detection engineering, and Blue Team strategy. 13+ years across SOC, security engineering, and enterprise infrastructure.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasarx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasarx&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
 
----
+###
 
-### 🛡️ What I Do
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" height="40" alt="redhat logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
 
-- **SOC Leadership** — SOC strategy, detection engineering use cases, MTTD/MTTR optimization, analyst mentoring
-- **Detection & Response** — SIEM log analysis, event correlation, threat hunting, IOC validation, alert tuning
-- **Endpoint & Perimeter** — ESET PROTECT Cloud / EDR, FortiGate, VyOS Firewall, OpenResty WAF, IDS/IPS
-- **Cloud Security** — AWS CloudTrail, GuardDuty, VPC Flow Logs, IAM, CloudWatch, Security Groups
-- **Vulnerability Management** — Enterprise remediation coordination, VAPT support, patch validation, system hardening
-- **Incident Management** — Containment → eradication → recovery → RCA and post-incident review
-- **Governance & Compliance** — ISO 27001, NIST CSF, SOC 2 Type II, HIPAA, CIS Controls
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-yasar-06a344b2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:yasarx91@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/yasarx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+</div>
 
-### ⚙️ Tech Stack
+###
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/OpenResty-009639?style=flat-square&logo=nginx&logoColor=white)
-![Fortinet](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005C99?style=flat-square&logo=wazuh&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black)
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
----
+###
 
-### 💼 Experience
+### 🛡️ About Me
 
-| Role | Organization | Period |
-|---|---|---|
-| Blue Team Lead – Cybersecurity | Adamsbridge | Nov 2025 – Present |
-| Security & Infrastructure Consultant (SOC) | HCL Technologies | Oct 2021 – Nov 2025 |
-| Senior Security Administrator (SOC) | NTT DATA | Dec 2019 – Sep 2021 |
-| Senior SOC Engineer | GAVS Technologies | May 2018 – Aug 2019 |
-| SOC Analyst | iOPEX Technologies | Jun 2014 – May 2018 |
-| Incident Management Analyst | Accenture | Sep 2012 – Dec 2013 |
+- 🔭 Leading **24×7 SOC operations** across on-prem and AWS environments
+- 🧪 Building **ABSecure** — a unified security posture dashboard
+- ⚙️ Automating SIEM & WAF reporting pipelines with **Python + LangGraph**
+- 🐝 Deploying **Wazuh 4.14** with Shuffle (SOAR) and TheHive
+- 🌱 Certification roadmap: **CySA+ → AWS Security Specialty → CISM → CISSP**
+- 📜 Certified: **AWS Solutions Architect** · **RHCE**
+- 🗣️ English · Tamil
 
----
+###
 
-### 🔭 Currently
+### 🔐 Security Stack
 
-- Building **ABSecure** — a unified security posture dashboard covering VAPT, vulnerability management, SIEM, threat ops, SOC reporting, and compliance
-- Automating WAF and SIEM reporting pipelines with Python + LangGraph
-- Deploying **Wazuh 4.14** with Shuffle (SOAR) and TheHive for SOC automation
+`ESET PROTECT / EDR` `FortiGate` `VyOS` `OpenResty WAF` `ModSecurity`
+`Wazuh` `Log360` `Suricata` `Shuffle SOAR` `TheHive`
+`AWS GuardDuty` `CloudTrail` `VPC Flow Logs` `IAM`
+`ISO 27001` `NIST CSF` `SOC 2 Type II` `HIPAA` `CIS Controls`
 
----
+###
 
-### 🎓 Education & Certifications
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasarx&radical=true&hide_border=true&area=true" alt="activity graph" />
+</div>
 
-**MBA – IT & Systems Management** *(Pursuing)* — University of Madras, IDE
-**B.Sc. Computer Science** — The New College, University of Madras
-
-`AWS Certified Solutions Architect` · `Red Hat Certified Engineer (RHCE)`
-
-**Roadmap:** CompTIA CySA+ → AWS Security – Specialty → CISM → CISSP
-
-🎯 **Career Objective:** SOC Manager | Cybersecurity Manager | Security Operations Leadership
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yasarx&show_icons=true&theme=github_dark&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasarx&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-### 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yasar-06a344b2/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yasarx91@gmail.com)
-
-🗣️ English · Tamil
-```
-
-Create a public repo named `yasarx`, add this as `README.md`, and it will render on your profile.
+###
