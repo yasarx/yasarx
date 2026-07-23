@@ -31,7 +31,7 @@
 
 <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b1ad-4f9e-a3d5-2b0f2f1c02b9.gif" alt="coding" />
 
-Blue Team Lead with **13+ years** across SOC operations, security engineering, and enterprise infrastructure. I lead **24×7 Security Operations** protecting endpoints and servers across on-premises and AWS environments — covering security monitoring, incident response, detection engineering, and Blue Team strategy.
+Blue Team Lead with **14+ years** across SOC operations, security engineering, and enterprise infrastructure. I lead **24×7 Security Operations** protecting endpoints and servers across on-premises and AWS environments — covering security monitoring, incident response, detection engineering, and Blue Team strategy.
 
 📍 **Chennai, India**
 🎯 **Objective:** SOC Manager · Cybersecurity Manager · Security Operations Leadership
