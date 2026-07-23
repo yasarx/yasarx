@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! My name is Mohamed Yasar Arafath, and I'm a Blue Team Lead – Cybersecurity from 🇮🇳</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=13%2B+Years+in+SOC+%26+Security+Operations;SIEM+%7C+EDR+%7C+WAF+%7C+Cloud+Security;Incident+Response+%26+Threat+Detection;Aspiring+Cybersecurity+Manager+%2F+CISO" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=14%2B+Years+in+SOC+%26+Security+Operations;SIEM+%7C+EDR+%7C+WAF+%7C+Cloud+Security;Incident+Response+%26+Threat+Detection;Aspiring+Cybersecurity+Manager+%2F+CISO" alt="typing svg" />
 </p>
 
 ###
